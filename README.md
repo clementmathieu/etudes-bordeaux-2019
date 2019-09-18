@@ -22,3 +22,6 @@ Vous devez respecter les contraintes suivantes :
 ### Dans l'école
 
 ### En ville
+Bar : le "Claro Que Si !"
+Adresse :  29 Rue du Loup, 33000 Bordeaux
+  -Happy hour de 18h à 21h, formule 4€ Pinte/Mojito +Tapas
